@@ -5,7 +5,7 @@
 > I just have collected them from many places,  
 > plz check the orignal Creators.  
 
-* [](https://github.com/ChrisTitusTech/nord-background)
-* [](https://wallpaperaccess.com/nord-theme)
-* [](https://github.com/theistic/nordic-wallpapers)
-* [](https://www.uhdpaper.com/)
+* [ChrisTitusTech](https://github.com/ChrisTitusTech/nord-background)
+* [WallpaperAccess](https://wallpaperaccess.com/nord-theme)
+* [Nordic-Wallpapers](https://github.com/theistic/nordic-wallpapers)
+* [UHDPaper](https://www.uhdpaper.com/)
