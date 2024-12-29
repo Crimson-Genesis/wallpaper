@@ -1,8 +1,12 @@
 *
 !.gitignore
+!README.md
 
 !Anime-Wallpaper-master/
 !Anime-Wallpaper-master/**/*
+
+!nordic-wallpapers-main/
+!nordic-wallpapers-main/**/*
 
 !my/
 !my/**/*
